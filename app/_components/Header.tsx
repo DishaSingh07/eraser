@@ -45,7 +45,7 @@ function Header() {
                                 className="block rounded-md  px-5 py-2.5 text-sm font-medium text-white transition "
                                 href="#"
                             >
-                                <LoginLink postLoginRedirectURL="/dashboard">Login</LoginLink>
+                                <LoginLink>Login</LoginLink>
                             </a>
 
                             <a
